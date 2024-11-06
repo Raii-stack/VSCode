@@ -1,5 +1,3 @@
-package lab;
-
 import java.text.DecimalFormat;
 import java.util.Scanner;
 import lab.Function;
